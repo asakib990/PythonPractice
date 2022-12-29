@@ -1,0 +1,5 @@
+a = input("Enter Comma Separated Numbers: ")
+li = a.split(",")
+tu = tuple(list)
+print(f"List is: {list}")
+print(f"Tuple is: {tuple}")
